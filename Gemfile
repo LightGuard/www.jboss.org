@@ -25,7 +25,7 @@ gem 'git', '~> 1.2.5'
 gem 'oily_png', '~> 1.1.1'
 gem 'nokogiri', '~> 1.5.10'
 gem 'therubyracer', platforms: :ruby, require: linux_only('therubyracer')
-gem 'aweplug', github: 'lightguard/aweplug', branch: 'DEVELOPER-984-take-two'
+gem 'aweplug', github: 'lightguard/aweplug', branch: 'DEVELOPER-1131'
 #gem 'aweplug', path: '~/projects/ruby/aweplug'
 #gem 'aweplug', path: '../aweplug'
 gem 'parallel', '~> 1.1.0'
@@ -45,8 +45,6 @@ group :development do
   gem 'rake', '~> 10.0.4'
   #gem 'pry', require: false
   #gem 'pry-byebug', require: false
-  #gem 'pry-stack_explorer', require: false
-  #gem 'pry-exception_explorer', require: false
 end
 
 group :vdiff do
