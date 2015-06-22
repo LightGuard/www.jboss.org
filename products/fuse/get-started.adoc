@@ -51,8 +51,7 @@ image:#{cdn(site.base_url + '/images/products/devstudio/images_products_devstudi
 d.  Click Finish +
 +
 [.content-img]
-image:#{cdn(site.base_url + '/images/products/devstudio/images_products_devstudio_devstudio-overview-2.png')}[Configure
-Maven Repository]
+image:#{cdn(site.base_url + '/images/products/devstudio/images_products_devstudio_devstudio-overview-2.png')}[Configure Maven Repository]
 e.  Answer _"Yes"_ for the question if you want to update settings.xml
 file.
 6. Install JBoss Developer Studio Integration Stack plugins
